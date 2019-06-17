@@ -1,0 +1,23 @@
+site_name: 我的博客
+
+pages:
+    - 主页:
+        - 开始: index.md
+        - 文章: 文章/hello.md
+    - 恶意代码分析:
+        - Posion Ivy: 恶意代码分析/Posion Ivy.md
+    
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  logo:
+    icon: 'school'
+  feature:
+    tabs: true 
+  font:
+    text: 'Noto Sans'
+    code: 'Source Code Pro'
+    
